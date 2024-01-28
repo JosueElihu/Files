@@ -1,3 +1,9 @@
 [Jlauncher]
 current_version=4.5.2
 url=
+
+[Ulbear]
+db_version=1.5
+db_update_date=30/05/2022
+app_version=1.0.0
+url=
